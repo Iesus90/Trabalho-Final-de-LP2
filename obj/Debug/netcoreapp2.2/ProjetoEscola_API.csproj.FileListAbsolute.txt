@@ -1,0 +1,14 @@
+C:\Users\Iesus\Desktop\Trabalho_Final_LP2\ProjetoEscola_API\bin\Debug\netcoreapp2.2\ProjetoEscola_API.deps.json
+C:\Users\Iesus\Desktop\Trabalho_Final_LP2\ProjetoEscola_API\bin\Debug\netcoreapp2.2\ProjetoEscola_API.runtimeconfig.json
+C:\Users\Iesus\Desktop\Trabalho_Final_LP2\ProjetoEscola_API\bin\Debug\netcoreapp2.2\ProjetoEscola_API.runtimeconfig.dev.json
+C:\Users\Iesus\Desktop\Trabalho_Final_LP2\ProjetoEscola_API\bin\Debug\netcoreapp2.2\ProjetoEscola_API.dll
+C:\Users\Iesus\Desktop\Trabalho_Final_LP2\ProjetoEscola_API\bin\Debug\netcoreapp2.2\ProjetoEscola_API.pdb
+C:\Users\Iesus\Desktop\Trabalho_Final_LP2\ProjetoEscola_API\obj\Debug\netcoreapp2.2\ProjetoEscola_API.csprojAssemblyReference.cache
+C:\Users\Iesus\Desktop\Trabalho_Final_LP2\ProjetoEscola_API\obj\Debug\netcoreapp2.2\ProjetoEscola_API.csproj.CoreCompileInputs.cache
+C:\Users\Iesus\Desktop\Trabalho_Final_LP2\ProjetoEscola_API\obj\Debug\netcoreapp2.2\ProjetoEscola_API.RazorAssemblyInfo.cache
+C:\Users\Iesus\Desktop\Trabalho_Final_LP2\ProjetoEscola_API\obj\Debug\netcoreapp2.2\ProjetoEscola_API.RazorAssemblyInfo.cs
+C:\Users\Iesus\Desktop\Trabalho_Final_LP2\ProjetoEscola_API\obj\Debug\netcoreapp2.2\ProjetoEscola_API.AssemblyInfoInputs.cache
+C:\Users\Iesus\Desktop\Trabalho_Final_LP2\ProjetoEscola_API\obj\Debug\netcoreapp2.2\ProjetoEscola_API.AssemblyInfo.cs
+C:\Users\Iesus\Desktop\Trabalho_Final_LP2\ProjetoEscola_API\obj\Debug\netcoreapp2.2\ProjetoEscola_API.RazorTargetAssemblyInfo.cache
+C:\Users\Iesus\Desktop\Trabalho_Final_LP2\ProjetoEscola_API\obj\Debug\netcoreapp2.2\ProjetoEscola_API.dll
+C:\Users\Iesus\Desktop\Trabalho_Final_LP2\ProjetoEscola_API\obj\Debug\netcoreapp2.2\ProjetoEscola_API.pdb

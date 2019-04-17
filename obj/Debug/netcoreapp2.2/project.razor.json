@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Iesus\\Desktop\\Trabalho_Final_LP2\\ProjetoEscola_API\\ProjetoEscola_API.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
