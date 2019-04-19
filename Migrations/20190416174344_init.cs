@@ -40,7 +40,7 @@ namespace ProjetoEscola_API.Migrations
                         column: x => x.ProfessorId,
                         principalTable: "Professores",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        onDelete: ReferentialAction.Restrict);
                 });
 
             migrationBuilder.CreateIndex(

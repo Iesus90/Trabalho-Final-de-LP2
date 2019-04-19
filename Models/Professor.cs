@@ -12,6 +12,8 @@ namespace ProjetoEscola_API.Models
 
         public string DataNasc { get; set; }
 
+        public string Matricula { get; set; }
+        
         public List<Aluno> Alunos { get; set; }
     }
 }

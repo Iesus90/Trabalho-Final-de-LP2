@@ -12,6 +12,8 @@ namespace ProjetoEscola_API.Models
 
         public int ProfessorId { get; set; }
 
+        public string Matricula { get; set; }
+        
         public Professor Professor { get; set; }
     }
 }
